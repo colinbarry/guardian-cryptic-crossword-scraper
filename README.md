@@ -11,7 +11,6 @@ Installation
 
 Usage
 =====
-To run
 `node index.js`
 
 Flags
@@ -24,5 +23,5 @@ Flags
 
 `--last` the id of the last crossword to download
 
-The id seems to refer to days since their first published crossword. Gaps exist, ids without puzzles, on days where crosswords were not published 
+The id seems to refer to days since their first published crossword. Gaps exist, ids without puzzles, on days where crosswords were not published.
 
