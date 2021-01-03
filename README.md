@@ -5,6 +5,10 @@ Productivity guru Max Deutsch outlines [here](https://medium.com/@maxdeutsch/how
 
 Presented here is a program that downloads crossword clues and solutions from The Guardian's web-hosted cryptic crosswords and writes them to a local .CSV file.
 
+Installation
+============
+`npm install`
+
 Usage
 =====
 To run
